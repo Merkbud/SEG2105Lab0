@@ -1,2 +1,0 @@
-# SEG2105Lab0
-SEG2105 Lab 1
